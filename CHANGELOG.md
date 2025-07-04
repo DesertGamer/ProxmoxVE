@@ -14,6 +14,18 @@ Exercise vigilance regarding copycat or coat-tailing sites that seek to exploit 
 All LXC instances created using this repository come pre-installed with Midnight Commander, which is a command-line tool (`mc`) that offers a user-friendly file and directory management interface for the terminal environment.
 
 
+## 2025-07-04
+
+### 🚀 Updated Scripts
+
+  - #### 🐞 Bug Fixes
+
+    - Cloudflare-DDNS: fix unvisible read command at install [@MickLesk](https://github.com/MickLesk) ([#5682](https://github.com/community-scripts/ProxmoxVE/pull/5682))
+
+### 💥 Breaking Changes
+
+  - Update Iptag [@DesertGamer](https://github.com/DesertGamer) ([#5677](https://github.com/community-scripts/ProxmoxVE/pull/5677))
+
 ## 2025-07-03
 
 ### 🚀 Updated Scripts
